@@ -21,6 +21,7 @@ fn part1(input: &str) ->String {
 	sum.to_string()
 }
 
+
 #[cfg(test)]
 mod tests {
 	use super::*;
