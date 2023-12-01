@@ -7,3 +7,15 @@ You don't need a computer science background to participate - just a little prog
 If you'd like to support Advent of Code, you can do so indirectly by helping to [Share on Twitter Mastodon] it with others, or directly via PayPal or Coinbase.
 
 [**Advent of Code 2023**](https://adventofcode.com/2023)
+
+For each day, you can run/build part ONE and part TWO, like this :
+```bash
+cargo r --bin part1
+cargo r --bin part2
+```
+
+You can also proceed to test on each project (day) directory :
+```bash
+cargo t
+```
+
