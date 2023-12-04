@@ -67,3 +67,11 @@ The **power** of a set of cubes is equal to the numbers of red, green, and blue 
 For each game, find the minimum set of cubes that must have been present. **What is the sum of the power of these sets?**
 
 Answer:
+
+Although it hasn't changed, you can still [get your puzzle input](https://adventofcode.com/2023/day/2/input).
+
+Your puzzle answer was **`60948`**.
+
+That's the right answer! You are **one gold star** closer to restoring snow operations.
+
+**You have completed Day 2!**
